@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "rin-exceptions"
+version = "1.0.0"
+description = "A set of base exceptions for Rin"
+authors = ["No767 <73260931+No767@users.noreply.github.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+homepage = "https://github.com/No767/Rin-Exceptions"
+repository = "https://github.com/No767/Rin-Exceptions"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: Apache Software License",
+  "Operating System :: OS Independent",
+  "Development Status :: 5 - Production/Stable",
+  "Programming Language :: Python :: 3.7",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Intended Audience :: Developers",
+]
+include = ["license"]
+packages = [{ include = "rin_exceptions", from = "src" }]
+[tool.poetry.dependencies]
+python = ">=3.7,<4.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

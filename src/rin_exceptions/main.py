@@ -59,3 +59,12 @@ class InvalidToken(Error):
         Error (_type_): Base Error
     """
     pass
+
+class ItemNotFound(Error):
+    """Rasied when the item within the Marketplace is not found. This is used in Kumiko's Economy system. This should only be raised when the item within the database is not found.
+
+    Args:
+        Error (_type_): Base Error
+    """
+    pass
+

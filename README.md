@@ -2,11 +2,10 @@
 
 # Rin-Exceptions
 
-![Rin](https://raw.githubusercontent.com/No767/Rin/dev/assets/Rin%20Logo%20V4%20(GitHub)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNo767%2FRin-Exceptions.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNo767%2FRin-Exceptions?ref=badge_shield)
-.png)
+![Rin](https://raw.githubusercontent.com/No767/Rin/dev/assets/Rin%20Logo%20V4%20(GitHub).png)
 
 
-![PyPI](https://img.shields.io/pypi/v/rin-exceptions?label=PyPi&logo=pypi&logoColor=white) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/rin-exceptions?label=Python&logo=python&logoColor=white) ![PyPI - Downloads](https://img.shields.io/pypi/dd/rin-exceptions?label=PyPi%20Downloads&logo=pypi&logoColor=white) ![GitHub](https://img.shields.io/github/license/No767/Rin-Exceptions?label=License&logo=github)
+![PyPI](https://img.shields.io/pypi/v/rin-exceptions?label=PyPi&logo=pypi&logoColor=white) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/rin-exceptions?label=Python&logo=python&logoColor=white) ![PyPI - Downloads](https://img.shields.io/pypi/dd/rin-exceptions?label=PyPi%20Downloads&logo=pypi&logoColor=white) ![GitHub](https://img.shields.io/github/license/No767/Rin-Exceptions?label=License&logo=github) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNo767%2FRin-Exceptions.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNo767%2FRin-Exceptions?ref=badge_shield)
 
 A set of base exceptions for Rin
 

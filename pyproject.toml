@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "rin-exceptions"
-version = "1.0.2"
+version = "1.0.3"
 description = "A set of base exceptions for Rin"
 authors = ["No767 <73260931+No767@users.noreply.github.com>"]
 license = "Apache-2.0"
